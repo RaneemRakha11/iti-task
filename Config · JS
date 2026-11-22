@@ -1,0 +1,4 @@
+export default {
+  appName: "ITI Bank",
+  version: "1.0",
+};
